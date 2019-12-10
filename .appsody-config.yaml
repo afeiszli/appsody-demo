@@ -1,0 +1,2 @@
+project-name: appsody-demo
+stack: kabanero/java-spring-boot2:0.3
